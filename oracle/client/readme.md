@@ -20,7 +20,7 @@ Lunch file _setup.exe_
 C:\Oralce\base
 ```
 
-!(https://bucket.kku.ac.th/iskku/KM/oracle/Screenshot%202025-08-27%20162956.png)
+![รูปที่ 1](https://bucket.kku.ac.th/iskku/KM/oracle/Screenshot%202025-08-27%20162956.png)
 
 [Oracle Instant Client Downloads for Microsoft Windows (x64) 64-bit](https://www.oracle.com/asean/database/technologies/instant-client/winx64-64-downloads.html?utm_source=openai)
 
