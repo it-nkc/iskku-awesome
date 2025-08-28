@@ -6,6 +6,7 @@
 ## Contents
 
 - [About](#about)
+- [เทคโนโลยี](#it)
 - [Oracle and REG Backoffice](#oracle)
 - [Google Scholar](#google-scholar)
 
@@ -13,6 +14,10 @@
 
 - [คณะสหวิทยาการ](https://www.is.kku.ac.th)
 - [ม. ขอนแก่น](https://www.kku.ac.th)
+
+## IT
+
+- [ลบ KKU Digital ID](https://www.canva.com/design/DAGdAM3nQ1Y/3w2gvWzQmb3J8JUjj6rs1Q/view?utm_content=DAGdAM3nQ1Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h250bbb32dd)
 
 ## Oracle
 
