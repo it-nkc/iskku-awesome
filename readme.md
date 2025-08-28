@@ -22,17 +22,19 @@
 
 ## Oracle
 
-- [ติดตั้ง Client](https://github.com/it-nkc/KM/tree/main/oracle/client)
-- [ปัญหาภาษาไทยเพี้ยน (ภาษาต่างดาว)](https://github.com/it-nkc/KM/tree/main/oracle/thai-language)
+- [ติดตั้ง Client](https://github.com/it-nkc/iskku-awesome/tree/main/oracle/client)
+- [ปัญหาภาษาไทยเพี้ยน (ภาษาต่างดาว)](https://github.com/it-nkc/iskku-awesome/tree/main/oracle/thai-language)
+- [ตั้งค่า Net Configuration Assistant](https://github.com/it-nkc/iskku-awesome/tree/main/oracle/Net%20Configuration%20Assistant)
+- [ตั้งค่า ODBC](https://github.com/it-nkc/iskku-awesome/tree/main/oracle/ODBC)
 
 ## Google Scholar
 
-- [คู่มือสมัคร](https://www.canva.com/design/DAGmRB_hPOY/tVuYEIVS_yGyGSIYAOVSKg/view?utm_content=DAGmRB_hPOY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h10c88f3f0c)
+- [วิธีสมัคร](https://www.canva.com/design/DAGmRB_hPOY/tVuYEIVS_yGyGSIYAOVSKg/view?utm_content=DAGmRB_hPOY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h10c88f3f0c)
 
 ## Software Engineer
 
+- [แนวทางปฎิบัติงานด้านระบบสารสนเทศเพื่อความปลอดภัย (Cyber Security for Web Application/Website)](https://www.canva.com/design/DAGqkwhvr6g/7KFVCoYjymQWXDFG2UZf5g/view?utm_content=DAGqkwhvr6g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6f9d542c4d)
 - [KKU Wordpress](https://github.com/it-nkc/wordpress-kku)
 - [OWASP ZAP](https://github.com/it-nkc/owasp-zap)
 - [Hono Prisma](https://github.com/it-nkc/hono-prisma)
 - [Svelte](https://github.com/it-nkc/svelte-deploy-adapter-bun)
-- [แนวทางปฎิบัติงานด้านระบบสารสนเทศเพื่อความปลอดภัย (Cyber Security for Web Application/Website)](https://www.canva.com/design/DAGqkwhvr6g/7KFVCoYjymQWXDFG2UZf5g/view?utm_content=DAGqkwhvr6g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6f9d542c4d)
