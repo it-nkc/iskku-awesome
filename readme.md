@@ -7,6 +7,7 @@
 
 - [About](#about)
 - [Oracle and REG Backoffice](#oracle)
+- [Google Scholar](#google-scholar)
 
 ## About
 
@@ -17,3 +18,7 @@
 
 - [ติดตั้ง Client](https://github.com/it-nkc/KM/tree/main/oracle/client)
 - [ปัญหาภาษาไทยเพี้ยน (ภาษาต่างดาว)](https://github.com/it-nkc/KM/tree/main/oracle/thai-language)
+
+## Google Scholar
+
+- [คู่มือสมัคร](https://www.canva.com/design/DAGmRB_hPOY/tVuYEIVS_yGyGSIYAOVSKg/view?utm_content=DAGmRB_hPOY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h10c88f3f0c)
